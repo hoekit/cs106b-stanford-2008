@@ -6,3 +6,7 @@ stanford-cslib
     - Folder contains the Stanford C++ libraries (last updated: Wed 2014/07/09)
     - Extracted from [archive.org](https://web.archive.org/web/20140721201909/http://stanford.edu/~stepp/cppdoc/).
 
+StanfordCPPLib.zip
+    - The stanford-cslib folder zipped up into one single file
+    - Originally downloaded from [archive.org](https://web.archive.org/web/20140721201909/http://stanford.edu/~stepp/cppdoc/StanfordCPPLib.zip).
+
